@@ -1,0 +1,62 @@
+name: web
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.14
+  audioplayers: ^0.20.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  google_fonts: ^3.0.1
+  flutter_svg: ^1.0.3
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dscntd.jpg
+    - assets/sxpstl.jpg
+    - assets/kilms.jpg
+    - assets/killims.jpg
+    - assets/tcg.jpg
+    - assets/bobmarley.jpg
+    - assets/profile.jpg
+    - assets/mcr.jpg
+    - assets/Sex-Pistols.jpg
+    - assets/kilmss.jpg
+    - assets/chang.jpg
+    - assets/artist/onad.jpg
+    - assets/artist/alphablondy.jpg
+    - assets/artist/ariana.jpg
+    - assets/artist/Bruno.jpg
+    - assets/artist/Xxxtentacion.jpg
+    - assets/mp3/Disenchanted.mp3
+    - assets/mp3/lonely_boy.mp3
+    - assets/mp3/malfunction.mp3
+    - assets/mp3/main_serong.mp3
+    - assets/mp3/no_woman_no_cry.mp3
+    - assets/mp3/one_love.mp3
+    - assets/mp3/three_little_bird.mp3
+    - assets/mp3/buffalo_soldier.mp3
+    - assets/mp3/peace_in_liberia.mp3
+    - assets/mp3/jerussalem.mp3
+    - assets/mp3/Biarlah.mp3
+    - assets/mp3/jangan_pergi.mp3
+    - assets/mp3/Torment.mp3
+    - assets/mp3/never_go_back.mp3
+    - assets/mp3/for_one_last_time.mp3
+    - assets/mp3/side_to_side.mp3
+    - assets/mp3/grenade.mp3
+    - assets/mp3/it_will_rain.mp3
+    - assets/mp3/the_lazy_song.mp3
+
