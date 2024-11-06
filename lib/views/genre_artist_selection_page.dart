@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:web/main.dart';
-import 'package:web/views/home_page.dart';
 
 class GenreArtistSelectionPage extends StatefulWidget {
   @override
