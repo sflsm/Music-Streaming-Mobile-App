@@ -2,7 +2,7 @@
 
 Link dribble : https://dribbble.com/shots/22772309-Music-Streaming-Mobile-App
 
-[Demo App Music Streaming Mobile App](https://github.com/user-attachments/assets/d045c64d-3ae7-4957-8abe-8d5234388266)
+[Demo App Music Streaming Mobile App](https://github.com/user-attachments/assets/1ca9edae-35d9-4130-ae8c-cf8724fe7668)
 
 ![Screenshot 2024-11-06 165028](https://github.com/user-attachments/assets/6dda4157-4fcd-45d7-9d2d-3b79202170f3)
 ![Screenshot 2024-11-06 165059](https://github.com/user-attachments/assets/1bfe02e9-9b62-4175-8f65-1383a7db98c4)
